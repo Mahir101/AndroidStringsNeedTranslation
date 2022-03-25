@@ -1,0 +1,7 @@
+<string name="billpayment">BILL\nPAYMENT</string>
+<string name="educationpayment">EDUCATION\nPAYMENT</string>
+<string name="busticket">BUS\nTICKET</string>
+<string name="use_card">Use Card</string>
+<string name="debit_credit_card">Debit/Credit Card</string>
+<string name="add_account">Add Account</string>
+<string name="link_account">Link Bank Account</string>
